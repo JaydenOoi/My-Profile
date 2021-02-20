@@ -1,0 +1,34 @@
+#skills{
+    background-color: cornflowerblue;
+}
+
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+}
+
+.details-table{
+    border: 2px solid red ;
+}
+
+#about{
+    background-color: darkblue;
+    color: white;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+}
+
+#education{
+    background-color: orange;
+    color: black;
+}
+
+#footer{
+    background-color: #46bdc6;
+}
+
+.btn-info{
+    color: white !important;
+}
